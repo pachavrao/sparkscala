@@ -15,6 +15,7 @@ object WordCount {
 
     var a =10
      a = 10
+    a = a
       a=a
     print("asdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd")
     val all_lines = sc.textFile("in/word_count.text")
